@@ -1,3 +1,6 @@
+# Note this is cloned from keycloak/keycloak-quickstarts
+This will be run from Openshift 4.2 as the platform, instead of locally.
+
 # <span>Keycloak</span> Quickstarts
 
 <span>Keycloak</span> is an Open Source Identity and Access Management solution for modern Applications and Services.
