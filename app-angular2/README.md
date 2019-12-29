@@ -24,6 +24,7 @@ The quickstart requires that you have the [example services](../service-jee-jaxr
 services are located at `http://localhost:8080/service`. If the services are running elsewhere you need to edit
 `app.component.ts` and replace the value of `serviceUrl`.  Then transpile using `npm run build` from the webapp
 directory.
+NOTE: Also much change the 'serviceUrl' in the `app.component.js` file also.  This is missing from the original documentation.
 
 If you are deploying the application as a WAR you need to have <span>WildFly 10</span> running.
 
